@@ -1,8 +1,8 @@
 # UBI_Dashboard
 Analyze Usage-Based Insurance (UBI) models using telematics data to predict driving risk and personalize insurance premiums. This project leverages machine learning to assess driver behavior and explores ethical considerations, including data privacy and discrimination in UBI implementation.
 
-**Usage-Based Insurance (UBI) with Telematics Data Analysis
-**
+**Usage-Based Insurance (UBI) with Telematics Data Analysis**
+
 **Project Description**
 This project explores the implementation and analysis of Usage-Based Insurance (UBI) models using telematics data. UBI is an innovative approach in the insurance industry, where insurance premiums are determined based on real-time driving behavior data collected through telematics devices. The goal of this project is to predict risky driving behaviors using machine learning models and assess their potential impact on insurance premium calculations.
 
