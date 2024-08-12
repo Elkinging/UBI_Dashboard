@@ -27,11 +27,29 @@ Prerequisites
 Python 3.x
 Jupyter Notebook
 Libraries: Ensure that the following Python libraries are installed:
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+
+**Installation**
+
+Clone the Repository:
+git clone https://github.com/your-username/UBI-telematics-analysis.git
+cd UBI-telematics-analysis
+
+Install the Required Libraries:
+pip install -r requirements.txt
+
+**Usage**
+
+Open the Jupyter Notebook:
+jupyter notebook
+
+Run the Analysis:
+Open the primary notebook (e.g., UBI_Telematics_Analysis.ipynb).
+Follow the cells step-by-step to run the data analysis, train the machine learning models, and view the results.
 
 **Results**
 
